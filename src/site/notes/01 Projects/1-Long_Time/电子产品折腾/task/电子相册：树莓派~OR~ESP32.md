@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-projects/1-long-time//task/or-esp-32/","tags":["task","gardenEntry"]}
+{"dg-publish":true,"permalink":"/01-projects/1-long-time//task/or-esp-32/","tags":["task","gardenEntry"],"created":"2026-01-29T09:33:09.299+08:00","updated":"2026-01-30T18:06:25.843+08:00"}
 ---
 
 > **关键词**：
