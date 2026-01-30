@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-inbox/ob/","tags":["task","gardenEntry"]}
+{"dg-publish":true,"permalink":"/00-inbox/ob/","tags":["task"]}
 ---
 
 > **关键词**：
