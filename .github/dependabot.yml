@@ -5,12 +5,8 @@
 
 version: 2
 updates:
-  - package-ecosystem: "npm" # See documentation for possible values
-    directory: "/" # Location of package manifests
+  - package-ecosystem: "npm"
+    directory: "/"
     schedule:
-      interval: "weekly"
-    ignore:
-      - dependency-name: "@sindresorhus/slugify"
-        # For slugify, ignore all updates.
-      - dependency-name: "@11ty/eleventy-plugin-rss"
-        versions: [ "^1.2.0" ]
+      interval: "monthly" # 改为每月检查一次
+    open-pull-requests-limit: 0 # 关键：这会禁止它自动开启 Pull Requests
