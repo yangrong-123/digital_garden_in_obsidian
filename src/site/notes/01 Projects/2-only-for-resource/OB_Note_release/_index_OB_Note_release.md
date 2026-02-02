@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01 Projects/2-only-for-resource/OB_Note_release/_index_OB_Note_release/","tags":["project","gardenEntry"],"created":"2026-01-15T22:30:15.697+08:00","updated":"2026-02-01T02:02:07.641+08:00"}
+{"dg-publish":true,"permalink":"/01 Projects/2-only-for-resource/OB_Note_release/_index_OB_Note_release/","tags":["project","gardenEntry"],"created":"2026-02-02T09:41:45.350+08:00","updated":"2026-02-02T09:41:47.142+08:00"}
 ---
 
 

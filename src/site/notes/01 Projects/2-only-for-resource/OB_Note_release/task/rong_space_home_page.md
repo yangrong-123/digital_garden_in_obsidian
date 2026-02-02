@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01 Projects/2-only-for-resource/OB_Note_release/task/rong_space_home_page/","tags":["task"],"created":"2026-02-01T02:00:48.047+08:00","updated":"2026-02-01T02:09:55.168+08:00"}
+{"dg-publish":true,"dg-path":"\"Advanced/rong_space_home_page.md\"","permalink":"/\"Advanced/rong_space_home_page/","tags":["task"],"created":"2026-02-02T09:41:45.351+08:00","updated":"2026-02-02T11:09:12.971+08:00"}
 ---
 
 > **关键词**：
@@ -10,7 +10,8 @@
 
 # 任务拆解✅
 
-- [ ] 
+- [ ] en，可能需要单独建一个目录给这个push 文档，因为网站的笔记，如果想显示各种类型啥的话，只能按你文件夹的格式来
+	- [ ] 好像和我本地笔记的嵌合不是特别好，当然，如果你就是不想让别人看这个，让他们自己去搜笔记的话，其实也还行，不展示文件夹📁
 
 - [ ] 
 
