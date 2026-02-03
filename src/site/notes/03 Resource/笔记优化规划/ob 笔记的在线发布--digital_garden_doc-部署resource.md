@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03 Resource/笔记优化规划/ob 笔记的在线发布--digital_garden_doc-部署resource/","tags":["resource"],"created":"2026-02-02T09:41:45.356+08:00","updated":"2026-02-02T10:58:53.594+08:00"}
+{"dg-publish":true,"permalink":"/03 Resource/笔记优化规划/ob 笔记的在线发布--digital_garden_doc-部署resource/","tags":["resource"],"created":"2026-02-02T09:41:45.356+08:00","updated":"2026-02-04T00:07:25.645+08:00"}
 ---
 
 > **关键词**：digital_garden_doc
@@ -21,19 +21,27 @@
 
 ```
 
+
+- [ ] github 仓库
+	- [ ] [GitHub - yangrong-123/digital\_garden\_in\_obsidian](https://github.com/yangrong-123/digital_garden_in_obsidian)
+
 - [ ] 部署guide
 	- [ ] [digital_garden_doc](https://dg-docs.ole.dev/getting-started/01-getting-started/)
 
 - [ ] Vercel 看板
 	- [ ] [Login – Vercel](https://vercel.com/rongs-projects-899cede3/digital_garden_in_obsidian/deployments)
-
-
-- [ ] github 仓库
-	- [ ] [GitHub - yangrong-123/digital\_garden\_in\_obsidian](https://github.com/yangrong-123/digital_garden_in_obsidian)
-
-- [ ] note 发布界面
 	- [ ] [电子相册](https://digitalgardeninobsidian.vercel.app/)
 	- [ ] [电子相册](https://rong-garden.vercel.app/)
+
+- [ ] 利用zeabur 部署
+	- [ ] [Projects - Zeabur](https://zeabur.com/projects/69821a76f9d3bc4cce7d6a9b/services/69821afa660671a403f180aa?envID=69821a7686311f632dc29f49)
+	- [ ] [ob 笔记的在线发布--digital\_garden\_doc-部署resource](https://hellorong.zeabur.app/03%20Resource/%E7%AC%94%E8%AE%B0%E4%BC%98%E5%8C%96%E8%A7%84%E5%88%92/ob%20%E7%AC%94%E8%AE%B0%E7%9A%84%E5%9C%A8%E7%BA%BF%E5%8F%91%E5%B8%83--digital_garden_doc-%E9%83%A8%E7%BD%B2resource/)
+
+
+
+
+
+
 
 
 ## 2 部署踩坑
