@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"./","permalink":"//","tags":["task"],"created":"2026-02-02T09:41:45.351+08:00","updated":"2026-02-05T16:23:57.573+08:00"}
+{"dg-publish":true,"dg-path":"home","permalink":"/home/","tags":["task"],"created":"2026-02-02T09:41:45.351+08:00","updated":"2026-02-05T16:29:30.747+08:00"}
 ---
 
 > **关键词**：
