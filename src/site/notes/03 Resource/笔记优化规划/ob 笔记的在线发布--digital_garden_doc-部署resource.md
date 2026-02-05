@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03 Resource/笔记优化规划/ob 笔记的在线发布--digital_garden_doc-部署resource/","tags":["resource"],"created":"2026-02-02T09:41:45.356+08:00","updated":"2026-02-04T00:07:25.645+08:00"}
+{"dg-publish":true,"permalink":"/03 Resource/笔记优化规划/ob 笔记的在线发布--digital_garden_doc-部署resource/","tags":["resource"],"created":"2026-02-02T09:41:45.356+08:00","updated":"2026-02-05T07:42:37.332+08:00"}
 ---
 
 > **关键词**：digital_garden_doc
