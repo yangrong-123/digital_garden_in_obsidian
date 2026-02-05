@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"/NAS~","permalink":"//NAS~/","title":"NAS存储迁移+权限问题debug","tags":["task"],"noteIcon":"","created":"2026-02-05T16:42:19.765+08:00","updated":"2026-02-05T17:07:54.109+08:00"}
+{"dg-publish":true,"dg-path":"NAS/","permalink":"/NAS//","title":"NAS存储迁移+权限问题debug","tags":["task"],"noteIcon":"","created":"2026-02-05T16:42:19.765+08:00","updated":"2026-02-05T17:08:57.135+08:00"}
 ---
 
 # docker 存储迁移+权限问题debug
